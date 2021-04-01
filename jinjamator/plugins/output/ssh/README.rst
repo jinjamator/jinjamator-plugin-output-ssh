@@ -1,0 +1,1 @@
+The ssh output plugin sends the rendered tasklet output via ssh to an remote Host.
